@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "swQuTR9TS/uVirKFP7CN/jOH29QEHLd7vjg9lQL3DiEFKNOji3rpl+MV1o4Wa6uGJ84Xtbg93mID0b4LSQxHQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bouch\\premier-projet\\StudentGradesManager\\StudentGradesManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bouch\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

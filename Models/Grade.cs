@@ -1,6 +1,11 @@
-public class Grade
+﻿namespace premier_projet.Models
 {
-    public int CourseId { get; set; }
-    public decimal Score { get; set; }
-    public string Feedback { get; set; }
+    public class Grade
+    {
+        public int CourseId { get; set; }
+        public decimal Score { get; set; }
+    }
 }
+
+
+

@@ -1,0 +1,17 @@
+C:\Users\bouch\premier-projet\StudentGradesManager\obj\Debug\net7.0\StudentGradesManager.csproj.AssemblyReference.cache
+C:\Users\bouch\premier-projet\StudentGradesManager\obj\Debug\net7.0\StudentGradesManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bouch\premier-projet\StudentGradesManager\obj\Debug\net7.0\StudentGradesManager.AssemblyInfoInputs.cache
+C:\Users\bouch\premier-projet\StudentGradesManager\obj\Debug\net7.0\StudentGradesManager.AssemblyInfo.cs
+C:\Users\bouch\premier-projet\StudentGradesManager\obj\Debug\net7.0\StudentGradesManager.csproj.CoreCompileInputs.cache
+C:\Users\bouch\premier-projet\StudentGradesManager\bin\Debug\net7.0\StudentGradesManager.exe
+C:\Users\bouch\premier-projet\StudentGradesManager\bin\Debug\net7.0\StudentGradesManager.deps.json
+C:\Users\bouch\premier-projet\StudentGradesManager\bin\Debug\net7.0\StudentGradesManager.runtimeconfig.json
+C:\Users\bouch\premier-projet\StudentGradesManager\bin\Debug\net7.0\StudentGradesManager.dll
+C:\Users\bouch\premier-projet\StudentGradesManager\bin\Debug\net7.0\StudentGradesManager.pdb
+C:\Users\bouch\premier-projet\StudentGradesManager\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\bouch\premier-projet\StudentGradesManager\obj\Debug\net7.0\StudentGradesManager.csproj.CopyComplete
+C:\Users\bouch\premier-projet\StudentGradesManager\obj\Debug\net7.0\StudentGradesManager.dll
+C:\Users\bouch\premier-projet\StudentGradesManager\obj\Debug\net7.0\refint\StudentGradesManager.dll
+C:\Users\bouch\premier-projet\StudentGradesManager\obj\Debug\net7.0\StudentGradesManager.pdb
+C:\Users\bouch\premier-projet\StudentGradesManager\obj\Debug\net7.0\StudentGradesManager.genruntimeconfig.cache
+C:\Users\bouch\premier-projet\StudentGradesManager\obj\Debug\net7.0\ref\StudentGradesManager.dll

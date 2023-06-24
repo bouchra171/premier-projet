@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace premier_projet
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            EducationSystemService educationSystemService = new EducationSystemService();
+            UserInterface userInterface = new UserInterface(educationSystemService);
+            userInterface.Run();
+        }
+    }
+}
+
+
+

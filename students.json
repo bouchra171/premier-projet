@@ -1,0 +1,32 @@
+[
+    {
+        "Id": 1,
+        "FirstName": "John",
+        "LastName": "Doe",
+        "Grades": [
+            {
+                "CourseId": 1,
+                "Score": 18.5
+            },
+            {
+                "CourseId": 2,
+                "Score": 15.0
+            }
+        ]
+    },
+    {
+        "Id": 2,
+        "FirstName": "Jane",
+        "LastName": "Smith",
+        "Grades": [
+            {
+                "CourseId": 1,
+                "Score": 12.0
+            },
+            {
+                "CourseId": 3,
+                "Score": 14.5
+            }
+        ]
+    }
+]

@@ -1,5 +1,11 @@
-public class Course
+﻿
+using premier_projet.Models;
+
+namespace premier_projet.Models
 {
-    public int Id { get; set; }
-    public string Name { get; set; }
+    public class Course
+    {
+        public int Id { get; set; }
+        public string Name { get; set; } = "";  
+    }
 }
